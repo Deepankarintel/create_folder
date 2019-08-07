@@ -1,0 +1,26 @@
+
+FTP
+======
+A simple python code to create a folder and subfolder
+
+
+The code is Python 2, but Python 3 compatible.
+
+Installation
+------------
+
+Fast install:
+
+Install the package:
+
+::
+
+    python setup.py install    
+
+Example
+--------
+
+.. code:: python
+
+    
+    
